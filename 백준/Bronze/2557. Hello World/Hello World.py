@@ -1,2 +1,1 @@
-import sys
-sys.stdout.write("Hello World!\n")
+print("Hello World!")
